@@ -46,4 +46,4 @@ to employee attrition.
 ## Files
 - Tableau Dashboard: `Employee_Trends_Analysis_Dashboard.twbx`
 - Dataset: `employee_trends.csv`
-- Dashboard Screenshot: `images/dashboard.png`
+- Dashboard Screenshot: `dashboard.png`
